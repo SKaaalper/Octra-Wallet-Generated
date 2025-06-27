@@ -63,10 +63,10 @@ cat octra_wallet_kc4Hzdwp_1751027665.txt
 - Do not check the box that says “I am a validator”
 - Click Submit.
 
-  ### 9. Confirm on Explorer
+### 9. Confirm on Explorer
   - Check if your wallet received tokens using the Octra explorer. You should see your address marked as "confirmed".
  
-  ### 10. Stop the Wallet Generator
+### 10. Stop the Wallet Generator
   - When done, press `CTRL + C` in the terminal to stop the generator.
  
   More info's HERE: [Twitter](https://x.com/octra/status/1938309788586414288)
