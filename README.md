@@ -1,4 +1,4 @@
-# Octra-Wallet-Generated
+# Octra Wallet Generated
 
 ![image](https://github.com/user-attachments/assets/7976cdf8-85b4-4acb-9640-8582e4a80ff9)
 
