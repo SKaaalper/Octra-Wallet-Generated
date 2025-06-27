@@ -35,7 +35,7 @@ ufw allow 8888
 - In your browser, go to: `http://YOUR_SERVER_IP:8888`
 - You should now see the `Octra Wallet Generator` page.
 
-![image](https://github.com/user-attachments/assets/e7102b9a-cf10-4738-9f69-032a056abf60)
+![image](https://github.com/user-attachments/assets/61d1d0cb-f7c3-4b6d-aff9-4594a350e9f0)
 
 ### 6. Generate Your Wallet
 - Click "Generate Wallet" on the web interface.
