@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/7976cdf8-85b4-4acb-9640-8582e4a80ff9)
 
-# You can now generate a `testnet wallet` by following this instruction**:
+# You can now generate a `testnet wallet` by following this instruction:
 
 ## You can run via [Github Codespace](https://github.com/codespaces) or VPS server
 
