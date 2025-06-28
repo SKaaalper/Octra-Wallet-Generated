@@ -2,7 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/7976cdf8-85b4-4acb-9640-8582e4a80ff9)
 
-You can now generate a `testnet wallet` by following this instruction:
+**You can run via [Github Codespace](https://github.com/codespaces) or VPS server**
+
+**You can now generate a `testnet wallet` by following this instruction**:
 
 ### 1. Open your terminal and run:
 ```
@@ -27,12 +29,14 @@ chmod +x wallet-generator
 ufw allow 8888
 ```
 
+
 ### 5. Then run the wallet generator:
 ```
 ./wallet-generator
 ```
 - Open the` Wallet Generator` Web UI
 - In your browser, go to: `http://YOUR_SERVER_IP:8888`
+- Using Github Codespace, Navigate to `http://localhost:8888`
 - You should now see the `Octra Wallet Generator` page.
 
 ![image](https://github.com/user-attachments/assets/61d1d0cb-f7c3-4b6d-aff9-4594a350e9f0)
