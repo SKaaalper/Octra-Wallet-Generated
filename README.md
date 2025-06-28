@@ -4,7 +4,7 @@
 
 # You can now generate a `testnet wallet` by following this instruction**:
 
-## You can run via [Github Codespace](https://github.com/codespaces) or VPS server**
+## You can run via [Github Codespace](https://github.com/codespaces) or VPS server
 
 ### 1. Open your terminal and run:
 ```
