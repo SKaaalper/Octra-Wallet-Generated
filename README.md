@@ -72,5 +72,14 @@ cat octra_wallet_kc4Hzdwp_1751027665.txt
  
 ### 10. Stop the Wallet Generator
   - When done, press `CTRL + C` in the terminal to stop the generator.
+
+### 11. Octra-txn-cli
+
+```
+bash <(curl -s https://raw.githubusercontent.com/SKaaalper/Octra-txn-cli/main/install.sh)
+```
+
+![image](https://github.com/user-attachments/assets/dfdd5f66-7d02-4545-b685-df6c45b5ffdf)
+
  
   More info's HERE: [Twitter](https://x.com/octra/status/1938309788586414288)
