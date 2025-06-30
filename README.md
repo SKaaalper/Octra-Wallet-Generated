@@ -4,6 +4,13 @@
 
 # You can now generate a `testnet wallet` by following this instruction:
 
+# Table Of Contents:
+  - [Command to generate wallet](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#1-open-your-terminal-and-run)
+  - [Faucet](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#8-get-test-tokens-faucet)
+  - [Octra Block Explorer](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#9-confirm-on-explorer)
+  - [Stop Wallet Generator](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#10-stop-the-wallet-generator)
+  - [Sent transaction](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#11-octra-txn-cli)
+
 ## You can run via [Github Codespace](https://github.com/codespaces) or VPS server
 
 ### 1. Open your terminal and run:
@@ -69,6 +76,7 @@ cat octra_wallet_kc4Hzdwp_1751027665.txt
 
 ### 9. Confirm on Explorer
   - Check if your wallet received tokens using the Octra explorer. You should see your address marked as "confirmed".
+  - Visit: https://octrascan.io/
  
 ### 10. Stop the Wallet Generator
   - When done, press `CTRL + C` in the terminal to stop the generator.
