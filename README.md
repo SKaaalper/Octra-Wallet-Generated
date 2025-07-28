@@ -10,6 +10,7 @@
   - [Octra Block Explorer](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#9-confirm-on-explorer)
   - [Stop Wallet Generator](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#10-stop-the-wallet-generator)
   - [Sent transaction](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#11-octra-txn-cli)
+  - [Octra ocs01-test Cli installer](https://github.com/SKaaalper/Octra-Wallet-Generated?tab=readme-ov-file#12-octra-ocs01-test-cli-installer)
 
 ## You can run via [Github Codespace](https://github.com/codespaces) or VPS server
 
