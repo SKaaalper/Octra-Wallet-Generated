@@ -89,5 +89,13 @@ bash <(curl -s https://raw.githubusercontent.com/SKaaalper/Octra-txn-cli/main/in
 
 ![image](https://github.com/user-attachments/assets/dfdd5f66-7d02-4545-b685-df6c45b5ffdf)
 
- 
+
+ ### 12. Octra ocs01-test Cli installer:
+```
+bash <(curl -s https://raw.githubusercontent.com/SKaaalper/Octra-txn-cli/main/ocs01-test)
+```
+
+<img width="644" height="532" alt="image" src="https://github.com/user-attachments/assets/cb61b8e6-179e-4b63-92d1-5bf856bcfff4" />
+
+
   More info's HERE: [Twitter](https://x.com/octra/status/1938309788586414288)
